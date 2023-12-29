@@ -1,7 +1,11 @@
 # CS32 - UCLA, Spring Quarter 2023
-This Repository contains my homework/lab solutions for UCLA Fall 2023 CS33 (Computer Organization) with Professor Glenn Reinmann. In this course, I learned a variety of topics relating to computer organization, including integer encodings, x86 Assembly, Floating Point, Program Optimization, Memory Hierarchy, OPENMP, ECF and Linking, Virtual Memory, and MIPS. This course consisted of 6 Homework Assignments and 4 Lab Assignments, with the Bomb Lab being my favorite.
+This Repository contains my homework/lab solutions for UCLA Fall 2023 CS33 (Computer Organization) with Professor Glenn Reinmann. In this course, I learned a variety of topics relating to computer organization, including integer encodings, x86 Assembly, Floating Point, Program Optimization, Memory Hierarchy, OpenMP, ECF and Linking, Virtual Memory, and MIPS. This course consisted of 6 Homework Assignments and 4 Lab Assignments, with the Bomb Lab being my favorite.
 
 <strong>Disclaimer: </strong> This repository is only meant to showcase my work for professional purposes. If you are a student at UCLA taking CS33, view this repository at your own risk.
+
+<strong> Grade Received: </strong> A+
+
+<strong> Final Exam Grade: </strong> 93/100
 
 ## Lab Scores
 | Lab | Grade | Description |
