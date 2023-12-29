@@ -5,16 +5,16 @@ This Repository contains my homework/lab solutions for UCLA Fall 2023 CS33 (Comp
 
 <strong> Grade Received: </strong> A+
 
-<strong> Final Exam Grade: </strong> 93/100
+<strong> Final Exam Score: </strong> 93/100
 
 ## Lab Scores
 | Lab | Grade | Description |
 | :---:     |    :---:      |          :---: |
-| Warm-Up Lab |   5/5   |  Organized several header and source files in CS31 minigame to eliminate circular dependencies.   |
-| Data Lab |   47/47   |  Created sequence class with linked list as the underlying data structure from scratch |
-| Bomb Lab |   74/70   |  Constructed Mancala game and Implemented Game AI using Min-Max Algorithm  |
-| Attack Lab |   100/100   |  Constructed Mancala game and Implemented Game AI using Min-Max Algorithm  |
-| Parallel Lab |   102/100   |  Built Hash Table and Function to create anagram dictionary and function to output all anagrams of a word input |
+| Warm-Up Lab |   5/5   |  Create a function that multiplies number by 3/4 rounding toward 0 using bitwise operations only.   |
+| Data Lab |   47/47   |  Programmed several competitve programming functions using bitwise operations only |
+| Bomb Lab |   74/70   |  Analyzed the x86 assembly of several encrypted functions and algorithms using gdb debugger in order to determine input to defuse a binary bomb |
+| Attack Lab |   100/100   |  Performed Code Injection Attacks and Return Oriented Programming Attacks in order to hack return address of function  |
+| Parallel Lab |   102/100   |  Optimized several graphic display functions using knowledge of OpenMP, Parallelism, Caching, Code Motion, and Tiling |
 
 ## HW1 Scores
 | HW1 | Grade |
