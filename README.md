@@ -16,7 +16,7 @@ This Repository contains my homework/lab solutions for UCLA Fall 2023 CS33 (Comp
 | Attack Lab |   100/100   |  Performed Code Injection Attacks and Return Oriented Programming Attacks in order to hack return address of function  |
 | Parallel Lab |   102/100   |  Optimized several graphic display functions using knowledge of OpenMP, Parallelism, Caching, Code Motion, and Tiling |
 
-## HW1 Scores
+## HW Scores
 | HW1 | Grade |
 | :---:     |    :---: |     
 | HW 1 |   100/100   |  
